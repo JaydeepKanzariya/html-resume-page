@@ -2,6 +2,8 @@
 
 A single-page semantic HTML resume website. Built purely with semantic HTML5 elements without any CSS.
 
+**Live Demo:** [jaydeepkanzariya.github.io/html-resume-page](https://jaydeepkanzariya.github.io/html-resume-page/)
+
 ## Features & Semantic Structure
 
 - **Header (`<header>`)**: Name (`<h1>`) and professional headline (`<p>`).
@@ -17,8 +19,9 @@ A single-page semantic HTML resume website. Built purely with semantic HTML5 ele
 
 ```text
 html-resume-page/
-├── index.html   # Main single-page HTML resume
-└── README.md    # Project documentation and setup instructions
+├── index.html       # Main single-page HTML resume
+├── screenshot.png   # Output screenshot
+└── README.md        # Project documentation and setup instructions
 ```
 
 ## Setup & Usage
